@@ -1,0 +1,55 @@
+Category,Product Name,Price,Available Quantity,Total Sold Quantity
+Gaming Consoles,PlayStation 5,$499,20,150
+PC Components,RTX 3080,$699,10,50
+Gaming Accessories,Razer Mouse,$49,35,200
+Games,Cyberpunk 2077,$59,50,300
+Gaming Consoles,Xbox Series X,$499,15,120
+PC Components,AMD Ryzen 9,$499,25,80
+Gaming Accessories,SteelSeries Headset,$99,40,300
+Games,The Witcher 3,$39,60,500
+Gaming Consoles,Nintendo Switch,$299,30,200
+PC Components,Corsair RAM,$79,50,150
+Gaming Consoles,Nintendo Switch OLED,$349,25,180
+PC Components,Intel i9 11900K,$549,12,75
+Gaming Accessories,Logitech G502,$89,40,220
+Games,Red Dead Redemption 2,$59,45,320
+Gaming Consoles,Sony PlayStation VR,$299,18,150
+PC Components,ASUS TUF Z490,$229,15,90
+Gaming Accessories,Corsair K95 RGB,$199,20,170
+Games,Grand Theft Auto V,$29,100,1000
+Gaming Consoles,Oculus Quest 2,$299,10,140
+PC Components,NZXT H510 Case,$99,30,250
+Gaming Accessories,HyperX Cloud II,$99,35,280
+Games,The Last of Us Part II,$49,25,210
+Gaming Consoles,Sega Genesis Mini,$79,25,110
+PC Components,Cooler Master Hyper 212,$35,40,320
+Gaming Accessories,SteelSeries Rival 600,$79,20,150
+Games,God of War,$59,60,410
+Gaming Consoles,Atari VCS,$199,12,90
+PC Components,Crucial MX500 SSD 1TB,$129,50,400
+Gaming Accessories,Razer BlackWidow,$139,30,190
+Games,Mortal Kombat 11,$49,40,320
+Gaming Consoles,PlayStation Classic,$99,20,90
+PC Components,Samsung 970 EVO 1TB,$149,30,260
+Gaming Accessories,Logitech G Pro X,$129,25,210
+Games,FIFA 22,$59,80,500
+Gaming Consoles,Xbox One S,$299,18,170
+PC Components,MSI B550 Tomahawk,$189,15,120
+Gaming Accessories,Razer Naga Pro,$149,20,180
+Games,Assassin's Creed Valhalla,$59,70,430
+Gaming Consoles,Neo Geo Mini,$109,10,70
+PC Components,EVGA 750W Power Supply,$109,20,150
+Gaming Accessories,Razer Viper Ultimate,$129,18,140
+Games,Spider-Man Miles Morales,$49,65,480
+Gaming Consoles,PSP 3000,$129,8,60
+PC Components,G.Skill Trident Z 16GB,$89,30,260
+Gaming Accessories,Asus ROG Strix Scope,$159,15,130
+Games,Halo Infinite,$59,90,520
+Gaming Consoles,Xbox 360,$199,12,140
+PC Components,Corsair RM850 Power Supply,$129,25,180
+Gaming Accessories,Logitech G435,$79,40,250
+Games,Far Cry 6,$59,50,390
+Gaming Consoles,PlayStation Vita,$199,10,90
+PC Components,AMD Radeon RX 6800,$579,10,75
+Gaming Accessories,Razer Huntsman Elite,$199,20,190
+Games,Elden Ring,$59,80,600
