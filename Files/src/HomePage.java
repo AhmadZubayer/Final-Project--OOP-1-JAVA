@@ -82,7 +82,7 @@ public class HomePage implements ActionListener {
         pnl1.add(lblUser);*/
 
         btnCart = new JButton();
-        btnCart.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\YOUR CART.png"));
+        btnCart.setIcon(new ImageIcon("Files\\YOUR CART.png"));
         btnCart.setContentAreaFilled(false);
         btnCart.setBorderPainted(false);
         btnCart.setBounds(1430, 3, 120, 70);
@@ -178,12 +178,12 @@ public class HomePage implements ActionListener {
         pnl4.setBounds(0, 80, 1300, 220);
         frm3.add(pnl4);
 
-        ImageIcon icon = new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\BestSelling.gif");
+        ImageIcon icon = new ImageIcon("Files\\BestSelling.gif");
         JLabel lblBestSell = new JLabel(icon);
         lblBestSell.setBounds(0, 0,100, 220);
         pnl4.add(lblBestSell);
 
-        ImageIcon icon2 = new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\recommended.gif");
+        ImageIcon icon2 = new ImageIcon("Files\\recommended.gif");
         JLabel lblRecommended = new JLabel(icon2);
         lblRecommended.setBounds(1240, 0,60, 220);
         pnl4.add(lblRecommended);
@@ -245,7 +245,7 @@ public class HomePage implements ActionListener {
         pnlConsoles.setBounds(0, 345, 1300, 500);
 
         btnConsole1 = new JButton();
-        btnConsole1.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\PlayStation 5 Pro.png"));
+        btnConsole1.setIcon(new ImageIcon("\Files\\Consoles\\PlayStation 5 Pro.png"));
         btnConsole1.setContentAreaFilled(false);
         btnConsole1.setBorderPainted(false);
         btnConsole1.addMouseListener(new MouseAdapter() {
@@ -262,7 +262,7 @@ public class HomePage implements ActionListener {
 
 
         btnConsole2 = new JButton();
-        btnConsole2.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\PlayStation 5.png"));
+        btnConsole2.setIcon(new ImageIcon("Files\\Consoles\\PlayStation 5.png"));
         btnConsole2.setContentAreaFilled(false);
         btnConsole2.setBorderPainted(false);
         btnConsole2.addMouseListener(new MouseAdapter() {
@@ -279,7 +279,7 @@ public class HomePage implements ActionListener {
 
 
         btnConsole3 = new JButton();
-        btnConsole3.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\XBOXX.png"));
+        btnConsole3.setIcon(new ImageIcon("FINAL PROJECT\\Files\\Consoles\\XBOXX.png"));
         btnConsole3.setContentAreaFilled(false);
         btnConsole3.setBorderPainted(false);
         btnConsole3.addMouseListener(new MouseAdapter() {
@@ -295,7 +295,7 @@ public class HomePage implements ActionListener {
         pnlConsoles.add(btnConsole3);
 
         btnConsole4 = new JButton();
-        btnConsole4.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\XBOXS.png"));
+        btnConsole4.setIcon(new ImageIcon("FINAL PROJECT\\Files\\Consoles\\XBOXS.png"));
         btnConsole4.setContentAreaFilled(false);
         btnConsole4.setBorderPainted(false);
         btnConsole4.addMouseListener(new MouseAdapter() {
@@ -312,7 +312,7 @@ public class HomePage implements ActionListener {
 
 
         btnConsole5 = new JButton();
-        btnConsole5.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\Steam.png"));
+        btnConsole5.setIcon(new ImageIcon("Files\\Consoles\\Steam.png"));
         btnConsole5.setContentAreaFilled(false);
         btnConsole5.setBorderPainted(false);
         btnConsole5.addMouseListener(new MouseAdapter() {
@@ -328,7 +328,7 @@ public class HomePage implements ActionListener {
         pnlConsoles.add(btnConsole5);
 
         btnConsole6 = new JButton();
-        btnConsole6.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\Switch.png"));
+        btnConsole6.setIcon(new ImageIcon("Files\\Consoles\\Switch.png"));
         btnConsole6.setContentAreaFilled(false);
         btnConsole6.setBorderPainted(false);
         btnConsole6.addMouseListener(new MouseAdapter() {
@@ -344,7 +344,7 @@ public class HomePage implements ActionListener {
         pnlConsoles.add(btnConsole6);
 
         btnConsole7 = new JButton();
-        btnConsole7.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\Ally.png"));
+        btnConsole7.setIcon(new ImageIcon("Files\\Consoles\\Ally.png"));
         btnConsole7.setContentAreaFilled(false);
         btnConsole7.setBorderPainted(false);
         btnConsole7.addMouseListener(new MouseAdapter() {
@@ -360,7 +360,7 @@ public class HomePage implements ActionListener {
         pnlConsoles.add(btnConsole7);
 
         btnConsole8 = new JButton();
-        btnConsole8.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\PS4.png"));
+        btnConsole8.setIcon(new ImageIcon("Files\\Consoles\\PS4.png"));
         btnConsole8.setContentAreaFilled(false);
         btnConsole8.setBorderPainted(false);
         btnConsole8.addMouseListener(new MouseAdapter() {
@@ -1141,7 +1141,7 @@ public class HomePage implements ActionListener {
         pnlAccessories.setBounds(0, 345, 1300, 500);
 
         btnAccessories1 = new JButton();
-        btnAccessories1.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\samsung.png"));
+        btnAccessories1.setIcon(new ImageIcon("Files\\Consoles\\samsung.png"));
         btnAccessories1.setContentAreaFilled(false);
         btnAccessories1.setBorderPainted(false);
         btnAccessories1.addMouseListener(new MouseAdapter() {
@@ -1158,7 +1158,7 @@ public class HomePage implements ActionListener {
 
 
         btnAccessories2 = new JButton();
-        btnAccessories2.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\Wheel.png"));
+        btnAccessories2.setIcon(new ImageIcon("Files\\Consoles\\Wheel.png"));
         btnAccessories2.setContentAreaFilled(false);
         btnAccessories2.setBorderPainted(false);
         btnAccessories2.addMouseListener(new MouseAdapter() {
@@ -1175,7 +1175,7 @@ public class HomePage implements ActionListener {
 
 
         btnAccessories3 = new JButton();
-        btnAccessories3.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\SonyWH.png"));
+        btnAccessories3.setIcon(new ImageIcon("Files\\Consoles\\SonyWH.png"));
         btnAccessories3.setContentAreaFilled(false);
         btnAccessories3.setBorderPainted(false);
         btnAccessories3.addMouseListener(new MouseAdapter() {
@@ -1191,7 +1191,7 @@ public class HomePage implements ActionListener {
         pnlAccessories.add(btnAccessories3);
 
         btnAccessories4 = new JButton();
-        btnAccessories4.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\RazerH.png"));
+        btnAccessories4.setIcon(new ImageIcon("Files\\Consoles\\RazerH.png"));
         btnAccessories4.setContentAreaFilled(false);
         btnAccessories4.setBorderPainted(false);
         btnAccessories4.addMouseListener(new MouseAdapter() {
@@ -1208,7 +1208,7 @@ public class HomePage implements ActionListener {
 
 
         btnAccessories5 = new JButton();
-        btnAccessories5.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\Steel.png"));
+        btnAccessories5.setIcon(new ImageIcon("Files\\Consoles\\Steel.png"));
         btnAccessories5.setContentAreaFilled(false);
         btnAccessories5.setBorderPainted(false);
         btnAccessories5.addMouseListener(new MouseAdapter() {
@@ -1224,7 +1224,7 @@ public class HomePage implements ActionListener {
         pnlAccessories.add(btnAccessories5);
 
         btnAccessories6 = new JButton();
-        btnAccessories6.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\RazerM.png"));
+        btnAccessories6.setIcon(new ImageIcon("Files\\Consoles\\RazerM.png"));
         btnAccessories6.setContentAreaFilled(false);
         btnAccessories6.setBorderPainted(false);
         btnAccessories6.addMouseListener(new MouseAdapter() {
@@ -1240,7 +1240,7 @@ public class HomePage implements ActionListener {
         pnlAccessories.add(btnAccessories6);
 
         btnAccessories7 = new JButton();
-        btnAccessories7.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\RazerK.png"));
+        btnAccessories7.setIcon(new ImageIcon("Files\\Consoles\\RazerK.png"));
         btnAccessories7.setContentAreaFilled(false);
         btnAccessories7.setBorderPainted(false);
         btnAccessories7.addMouseListener(new MouseAdapter() {
@@ -1256,7 +1256,7 @@ public class HomePage implements ActionListener {
         pnlAccessories.add(btnAccessories7);
 
         btnAccessories8 = new JButton();
-        btnAccessories8.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\razerv3.png"));
+        btnAccessories8.setIcon(new ImageIcon("Files\\Consoles\\razerv3.png"));
         btnAccessories8.setContentAreaFilled(false);
         btnAccessories8.setBorderPainted(false);
         btnAccessories8.addMouseListener(new MouseAdapter() {
@@ -1279,7 +1279,7 @@ public class HomePage implements ActionListener {
         pnlGames.setBounds(0, 345, 1300, 500);
 
         btnGames1 = new JButton();
-        btnGames1.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\gta6.png"));
+        btnGames1.setIcon(new ImageIcon("Files\\Consoles\\gta6.png"));
         btnGames1.setContentAreaFilled(false);
         btnGames1.setBorderPainted(false);
         btnGames1.addMouseListener(new MouseAdapter() {
@@ -1296,7 +1296,7 @@ public class HomePage implements ActionListener {
 
 
         btnGames2 = new JButton();
-        btnGames2.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\forza5.png"));
+        btnGames2.setIcon(new ImageIcon("Files\\Consoles\\forza5.png"));
         btnGames2.setContentAreaFilled(false);
         btnGames2.setBorderPainted(false);
         btnGames2.addMouseListener(new MouseAdapter() {
@@ -1313,7 +1313,7 @@ public class HomePage implements ActionListener {
 
 
         btnGames3 = new JButton();
-        btnGames3.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\flight.png"));
+        btnGames3.setIcon(new ImageIcon("Files\\Consoles\\flight.png"));
         btnGames3.setContentAreaFilled(false);
         btnGames3.setBorderPainted(false);
         btnGames3.addMouseListener(new MouseAdapter() {
@@ -1329,7 +1329,7 @@ public class HomePage implements ActionListener {
         pnlGames.add(btnGames3);
 
         btnGames4 = new JButton();
-        btnGames4.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\cod.png"));
+        btnGames4.setIcon(new ImageIcon("Files\\Consoles\\cod.png"));
         btnGames4.setContentAreaFilled(false);
         btnGames4.setBorderPainted(false);
         btnGames4.addMouseListener(new MouseAdapter() {
@@ -1346,7 +1346,7 @@ public class HomePage implements ActionListener {
 
 
         btnGames5 = new JButton();
-        btnGames5.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\rdr2.png"));
+        btnGames5.setIcon(new ImageIcon("Files\\Consoles\\rdr2.png"));
         btnGames5.setContentAreaFilled(false);
         btnGames5.setBorderPainted(false);
         btnGames5.addMouseListener(new MouseAdapter() {
@@ -1362,7 +1362,7 @@ public class HomePage implements ActionListener {
         pnlGames.add(btnGames5);
 
         btnGames6 = new JButton();
-        btnGames6.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\cp2077.png"));
+        btnGames6.setIcon(new ImageIcon("Files\\Consoles\\cp2077.png"));
         btnGames6.setContentAreaFilled(false);
         btnGames6.setBorderPainted(false);
         btnGames6.addMouseListener(new MouseAdapter() {
@@ -1378,7 +1378,7 @@ public class HomePage implements ActionListener {
         pnlGames.add(btnGames6);
 
         btnGames7 = new JButton();
-        btnGames7.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\hi.png"));
+        btnGames7.setIcon(new ImageIcon("Files\\Consoles\\hi.png"));
         btnGames7.setContentAreaFilled(false);
         btnGames7.setBorderPainted(false);
         btnGames7.addMouseListener(new MouseAdapter() {
@@ -1394,7 +1394,7 @@ public class HomePage implements ActionListener {
         pnlGames.add(btnGames7);
 
         btnGames8 = new JButton();
-        btnGames8.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\Consoles\\edr.png"));
+        btnGames8.setIcon(new ImageIcon("Files\\Consoles\\edr.png"));
         btnGames8.setContentAreaFilled(false);
         btnGames8.setBorderPainted(false);
         btnGames8.addMouseListener(new MouseAdapter() {
@@ -1414,21 +1414,21 @@ public class HomePage implements ActionListener {
 
         btnUser.addMouseListener(new MouseAdapter() {
             public void mouseEntered(MouseEvent e) {
-                btnUser.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\ACCOUNT hover.jpg"));
+                btnUser.setIcon(new ImageIcon("Files\\ACCOUNT hover.jpg"));
 
             }
 
             public void mouseExited(MouseEvent e) {
-                btnUser.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\ACCOUNT.png"));
+                btnUser.setIcon(new ImageIcon("Files\\ACCOUNT.png"));
             }
         });
 
         btnCart.addMouseListener(new MouseAdapter() {
             public void mouseEntered(MouseEvent e) {
-                btnCart.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\YOUR CART hover.jpg"));
+                btnCart.setIcon(new ImageIcon("Files\\YOUR CART hover.jpg"));
             }
             public void mouseExited(MouseEvent e) {
-                btnCart.setIcon(new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\YOUR CART.png"));
+                btnCart.setIcon(new ImageIcon("Files\\YOUR CART.png"));
             }
         });
 
@@ -1855,7 +1855,7 @@ public class HomePage implements ActionListener {
         pnlcarttextArea.setBounds(0, 0, 470, 700);
         frmCart.add(pnlcarttextArea);
 
-        ImageIcon icon = new ImageIcon("D:\\OneDrive - American International University-Bangladesh\\Docs\\Codes\\JAVA\\OOP-1 Java Semester 3\\FINAL PROJECT\\Files\\YOUR CART1.png");
+        ImageIcon icon = new ImageIcon("Files\\YOUR CART1.png");
         JLabel lblImage = new JLabel(icon);
         lblImage.setBounds(10, 10, 400, 120);
         pnlcarttextArea.add(lblImage);
@@ -1868,11 +1868,11 @@ public class HomePage implements ActionListener {
         cartTextArea.setForeground(Color.decode("#e2e2e2"));
         cartTextArea.setBackground(Color.decode("#2C3E50"));
         cartTextArea.setBounds(20, 180, 400, 450);
-        cartTextArea.setBorder(BorderFactory.createEmptyBorder()); // Remove the border for a clean look
+        cartTextArea.setBorder(BorderFactory.createEmptyBorder()); 
         pnlcarttextArea.add(cartTextArea);
 
         lblTotalPrice = new JLabel("Total Price: $0.00");
-        lblTotalPrice.setBounds(520, 200, 300, 40); // Set the position and size
+        lblTotalPrice.setBounds(520, 200, 300, 40); 
         lblTotalPrice.setFont(new Font("SansSerif", Font.BOLD, 25));
         lblTotalPrice.setForeground(Color.decode("#ffbd59"));
         frmCart.add(lblTotalPrice);
@@ -1908,7 +1908,7 @@ public class HomePage implements ActionListener {
 
         btnBackCart = new JButton("BACK");
         btnBackCart.setFont(new Font("Roboto", Font.BOLD, 17));
-        btnBackCart.setBackground(Color.decode("#007eff")); // Set text color
+        btnBackCart.setBackground(Color.decode("#007eff")); 
         btnBackCart.setForeground(Color.decode("#FFF8F0"));
         btnBackCart.setContentAreaFilled(true);
         btnBackCart.setBorderPainted(false);
@@ -1931,14 +1931,14 @@ public class HomePage implements ActionListener {
         btnRemoveItem.setForeground(Color.decode("#FFF8F0"));
         btnRemoveItem.setContentAreaFilled(true);
         btnRemoveItem.setBorderPainted(false);
-        btnRemoveItem.setBounds(650, 60, 160, 35); // Set the position and size of the button
+        btnRemoveItem.setBounds(650, 60, 160, 35); 
         btnRemoveItem.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 String itemToRemove = JOptionPane.showInputDialog(frmCart, "Enter the item to remove:", "Remove Item", JOptionPane.PLAIN_MESSAGE);
                 if (itemToRemove != null && !itemToRemove.trim().isEmpty()) {
                     removeItemFromCart(itemToRemove);
-                    displayCartContents(); // Refresh the cart display
+                    displayCartContents(); 
                 }
             }
         });
@@ -1947,11 +1947,11 @@ public class HomePage implements ActionListener {
 
         JButton btnClearCart = new JButton("CLEAR CART");
         btnClearCart.setFont(new Font("Roboto", Font.BOLD, 17));
-        btnClearCart.setBackground(Color.decode("#ff4d4d")); // Set button color
+        btnClearCart.setBackground(Color.decode("#ff4d4d")); 
         btnClearCart.setForeground(Color.decode("#FFF8F0"));
         btnClearCart.setContentAreaFilled(true);
         btnClearCart.setBorderPainted(false);
-        btnClearCart.setBounds(650, 10, 160, 35); // Set the position and size of the button
+        btnClearCart.setBounds(650, 10, 160, 35); 
         btnClearCart.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -1984,7 +1984,6 @@ public class HomePage implements ActionListener {
 
             while ((line = reader.readLine()) != null) {
                 if (line.contains(itemToRemove) && !itemFound) {
-                    // Skip writing this line to the temp file to "remove" it
                     itemFound = true;
                 } else {
                     writer.write(line);
@@ -2000,7 +1999,6 @@ public class HomePage implements ActionListener {
             e.printStackTrace();
         }
 
-        // Replace the old cart file with the updated temp file
         if (!inputFile.delete()) {
             System.err.println("Could not delete original cart file.");
             return;
